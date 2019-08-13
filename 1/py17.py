@@ -4,3 +4,20 @@
     #comprar apenas latas de 18 litros;
     #comprar apenas galões de 3,6 litros;
     #misturar latas e galões, de forma que o preço seja o menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias. 
+
+import math
+
+area=int(input(print("Qual área a ser pintada em metros?")))
+
+latas=math.ceil((area/6)/18)
+custoL=latas*80
+
+galoes=math.ceil((area/6)/3.6)
+custoG=galoes*25
+
+print("Latas mínimas necessárias: "+str(latas))
+print("Custo: R$"+str(custoL))
+print("Galões mínimas necessárias: "+str(galoes))
+print("Custo: R$"+str(custoG))
+
+

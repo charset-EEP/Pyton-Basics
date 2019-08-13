@@ -5,3 +5,18 @@
     #quanto pagou ao sindicato.
     #o salário líquido.
     #calcule os descontos e o salário líquido, conforme a tabela abaixo: 
+
+horaS=float(input(print("Quanto você ganha por hora?")))
+horaT=int(input(print("Quantas horas você trabalhou no mês?")))
+
+salarioB=horaT*horaS
+IR=(11/100)*salarioB
+INSS=(8/100)*salarioB
+sindicato=(5/100)*salarioB
+salarioL=salarioB-IR-INSS-sindicato
+
+print("+ Salário Bruto : R$"+str(salarioB))
+print("- IR (11%) : R$"+str(IR))
+print("- INSS (8%) : R$"+str(INSS))
+print("- Sindicato ( 5%) : R$"+str(sindicato))
+print("= Salário Liquido : R$"+str(salarioL))
