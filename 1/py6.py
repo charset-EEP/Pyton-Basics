@@ -2,6 +2,6 @@
 
 import math
 
-x=float(input(print("Digite o raio do circulo")))
-x=round(math.pi*x*x,2)
-print("Área: "+str(x))
+raio=float(input(print("Digite o raio do circulo")))
+raio=round(math.pi*raio*raio,2)
+print("Área: "+str(raio))
