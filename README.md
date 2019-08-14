@@ -1,20 +1,21 @@
 # Pyton-Basics
-Python Exercises
 
-1-https://wiki.python.org.br/EstruturaSequencial - [x] 
+#Python Exercises
 
-2-https://wiki.python.org.br/EstruturaDeDecisao - [_]
+- [x] 1-https://wiki.python.org.br/EstruturaSequencial 
 
-3-https://wiki.python.org.br/EstruturaDeRepeticao - [_]
+- [ ] 2-https://wiki.python.org.br/EstruturaDeDecisao 
 
-4-https://wiki.python.org.br/ExerciciosListas - [_]
+- [ ] 3-https://wiki.python.org.br/EstruturaDeRepeticao 
 
-5-https://wiki.python.org.br/ExerciciosFuncoes - [_]
+- [ ] 4-https://wiki.python.org.br/ExerciciosListas 
 
-6-https://wiki.python.org.br/ExerciciosComStrings - [_]
+- [ ] 5-https://wiki.python.org.br/ExerciciosFuncoes
 
-7-https://wiki.python.org.br/ExerciciosArquivos - [_]
+- [ ] 6-https://wiki.python.org.br/ExerciciosComStrings 
 
-8-https://wiki.python.org.br/ExerciciosClasses - [_]
+- [ ] 7-https://wiki.python.org.br/ExerciciosArquivos 
 
-9-https://wiki.python.org.br/ListaDeExerciciosProjetos - [_]
+- [ ] 8-https://wiki.python.org.br/ExerciciosClasses 
+
+- [ ] 9-https://wiki.python.org.br/ListaDeExerciciosProjetos 
