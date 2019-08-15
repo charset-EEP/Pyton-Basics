@@ -4,7 +4,7 @@
 
 - [x] 1-https://wiki.python.org.br/EstruturaSequencial 
 
-- [ ] 2-https://wiki.python.org.br/EstruturaDeDecisao 
+- [x] 2-https://wiki.python.org.br/EstruturaDeDecisao 
 
 - [ ] 3-https://wiki.python.org.br/EstruturaDeRepeticao 
 
