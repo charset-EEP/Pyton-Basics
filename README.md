@@ -1,21 +1,27 @@
+
 # Pyton-Basics
 
-#Python Exercises
+- Exercises
 
-- [x] 1-https://wiki.python.org.br/EstruturaSequencial 
+[x] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
 
-- [x] 2-https://wiki.python.org.br/EstruturaDeDecisao 
+[x] 2-EstruturaDeDecisao - https://wiki.python.org.br/EstruturaDeDecisao 
 
-- [ ] 3-https://wiki.python.org.br/EstruturaDeRepeticao 
+[_] 3-EstruturaDeRepeticao - https://wiki.python.org.br/EstruturaDeRepeticao 
 
-- [ ] 4-https://wiki.python.org.br/ExerciciosListas 
+[_] 4-ExerciciosListas - https://wiki.python.org.br/ExerciciosListas 
 
-- [ ] 5-https://wiki.python.org.br/ExerciciosFuncoes
+[_] 5-ExerciciosFuncoes - https://wiki.python.org.br/ExerciciosFuncoes
 
-- [ ] 6-https://wiki.python.org.br/ExerciciosComStrings 
+[_] 6-ExerciciosComStrings - https://wiki.python.org.br/ExerciciosComStrings 
 
-- [ ] 7-https://wiki.python.org.br/ExerciciosArquivos 
+[_] 7-ExerciciosArquivos - https://wiki.python.org.br/ExerciciosArquivos 
 
-- [ ] 8-https://wiki.python.org.br/ExerciciosClasses 
+[_] 8-ExerciciosClasses - https://wiki.python.org.br/ExerciciosClasses 
 
-- [ ] 9-https://wiki.python.org.br/ListaDeExerciciosProjetos 
+[_] 9-ListaDeExerciciosProjetos - https://wiki.python.org.br/ListaDeExerciciosProjetos 
+
+
+- HelpLinks: 
+
+List: https://www.devmedia.com.br/como-trabalhar-com-listas-em-python/37460
