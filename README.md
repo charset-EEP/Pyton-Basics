@@ -2,13 +2,13 @@
 
 - Exercises
 
-[x] 1-EstruturaSequencial  - https://wiki.python.org.br/EstruturaSequencial 
+[x] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
 
-[x] 2-EstruturaDeDecisao  - https://wiki.python.org.br/EstruturaDeDecisao 
+[x] 2-EstruturaDeDecisao - https://wiki.python.org.br/EstruturaDeDecisao 
 
 [ ] 3-EstruturaDeRepeticao - https://wiki.python.org.br/EstruturaDeRepeticao 
 
-[ ] 4-ExerciciosListas  - https://wiki.python.org.br/ExerciciosListas 
+[ ] 4-ExerciciosListas - https://wiki.python.org.br/ExerciciosListas 
 
 [ ] 5-ExerciciosFuncoes - https://wiki.python.org.br/ExerciciosFuncoes
 
