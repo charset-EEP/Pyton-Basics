@@ -1,6 +1,6 @@
 # Pyton-Basics
 
-#Exercises
+- Exercises
 
 [x] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
 
@@ -21,6 +21,6 @@
 [_] 9-ListaDeExerciciosProjetos - https://wiki.python.org.br/ListaDeExerciciosProjetos 
 
 
-HelpLinks: 
+- HelpLinks: 
 
 List: https://www.devmedia.com.br/como-trabalhar-com-listas-em-python/37460
