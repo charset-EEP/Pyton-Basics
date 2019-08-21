@@ -1,6 +1,6 @@
 # Pyton-Basics
 
-- Exercises
+#Exercises
 
 [x] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
 
