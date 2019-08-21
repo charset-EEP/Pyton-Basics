@@ -2,9 +2,9 @@
 
 #Exercises
 
-[X] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
+[x] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
 
-[X] 2-EstruturaDeDecisao - https://wiki.python.org.br/EstruturaDeDecisao 
+[x] 2-EstruturaDeDecisao - https://wiki.python.org.br/EstruturaDeDecisao 
 
 [_] 3-EstruturaDeRepeticao - https://wiki.python.org.br/EstruturaDeRepeticao 
 
@@ -19,3 +19,8 @@
 [_] 8-ExerciciosClasses - https://wiki.python.org.br/ExerciciosClasses 
 
 [_] 9-ListaDeExerciciosProjetos - https://wiki.python.org.br/ListaDeExerciciosProjetos 
+
+
+HelpLinks: 
+
+List: https://www.devmedia.com.br/como-trabalhar-com-listas-em-python/37460
