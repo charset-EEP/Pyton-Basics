@@ -2,7 +2,7 @@
 
 #Exercises
 
-[x] 1-EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
+[x] EstruturaSequencial - https://wiki.python.org.br/EstruturaSequencial 
 
 [x] 2-EstruturaDeDecisao - https://wiki.python.org.br/EstruturaDeDecisao 
 
