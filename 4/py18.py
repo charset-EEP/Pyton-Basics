@@ -31,3 +31,24 @@ Jogador Votos           %
 11              1               12,5%
 O melhor jogador foi o número 9, com 4 votos, correspondendo a 50% do total de votos.
 '''
+from collections import Counter
+votos=[]
+i=0
+print("Enquete: Quem foi o melhor jogador?")
+while 0 not in votos:    
+    votos.append(int(input(print("Número do jogador (0=fim):"))))
+    if votos[i]!=0:
+        while votos[i] not in range(1,24):
+            votos[i]=(int(input(print("Informe um valor entre 1 e 23 ou 0 para sair!"))))
+    i+=1
+votos.pop()
+c=Counter(votos)
+print("""Resultado da votação:
+
+Foram computados """+str(len(votos))+""" votos.""")
+print("Jogador        Votos           %")
+for i in range(1,24):
+    if i in c:
+        porc=(c[i]/len(votos))*100
+        print(str(i)+"             "+str(c[i])+"               "+str(porc)+"%")
+
