@@ -32,3 +32,36 @@ Total gasto com abonos: R$ 1400.00
 Valor mínimo pago a 3 colaboradores
 Maior valor de abono pago: R$ 900.00
 '''
+
+from collections import Counter
+
+salario=[]
+i=0
+abonotot=0
+Mabono=0
+j=0
+print("""
+Projeção de Gastos com Abono
+============================
+""")
+
+while 0 not in salario:    
+    salario.append(int(input(print("Salário (0=fim):"))))
+salario.pop()
+print("Salário    - Abono")
+
+for i in range(len(salario)):
+    abono=salario[i]*(20/100)
+    if abono < 100:
+        abono=100
+        j+=1
+    if abono>Mabono:
+        Mabono=abono
+    abonotot+=abono
+    
+    print("R$"+str(salario[i])+" - R$"+str(abono))
+    
+print("Foram processados "+str(len(salario))+" colaboradores.")
+print("Total gasto com abonos: R$ "+str(abonotot))
+print("Valor mínimo pago a "+str(j)+" colaboradores")
+print("Maior valor de abono pago: R$ "+str(Mabono))
