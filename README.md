@@ -9,9 +9,9 @@
 
 [_] 3-EstruturaDeRepeticao - https://wiki.python.org.br/EstruturaDeRepeticao 
 
-[_] 4-ExerciciosListas - https://wiki.python.org.br/ExerciciosListas 
+[x] 4-ExerciciosListas - https://wiki.python.org.br/ExerciciosListas 
 
-[_] 5-ExerciciosFuncoes - https://wiki.python.org.br/ExerciciosFuncoes
+[x] 5-ExerciciosFuncoes - https://wiki.python.org.br/ExerciciosFuncoes
 
 [_] 6-ExerciciosComStrings - https://wiki.python.org.br/ExerciciosComStrings 
 
